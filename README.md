@@ -1,6 +1,13 @@
+<div align="center">
+
 # 📌 Desarrollo y Despliegue de un Proyecto de Inteligencia Artificial - Algoritmos IA  
 
-## 📖 Descripción  
+## 📖 Descripción
+
+</div>
+
+---
+
 Este proyecto desarrolla un sistema basado en Inteligencia Artificial para optimizar procesos mediante modelos de aprendizaje automático.
 
 ## 🛠️ Funcionalidades  
@@ -23,3 +30,12 @@ Este proyecto desarrolla un sistema basado en Inteligencia Artificial para optim
 
 ## 📌 Autor  
 👨‍💻 **Alejandro De Mendoza**
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
