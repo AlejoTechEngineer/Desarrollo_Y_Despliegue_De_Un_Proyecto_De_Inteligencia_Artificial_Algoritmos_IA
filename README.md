@@ -33,6 +33,22 @@ Este proyecto desarrolla un sistema basado en Inteligencia Artificial para optim
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[pip install -r requirements.txt] --> B{Algoritmo}
+    B --> C[Algoritmo A* - AlgoritmoAAsterisco/]
+    B --> D[Algoritmo Voraz hacia Bogota]
+    B --> E[Algoritmo Voraz hacia Cali]
+    B --> F[Algoritmo Voraz hacia Medellin]
+    C & D & E & F --> G[python train.py - Entrenamiento del modelo]
+    G --> H[Validacion y evaluacion de metricas]
+    H --> I[python app.py - Servidor Flask/FastAPI]
+    I --> J[API en produccion - AWS / Google Cloud]
+    J --> K[Cliente: Postman o aplicacion web]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  
